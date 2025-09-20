@@ -31,4 +31,4 @@ https://www.kaggle.com/code/mohazone/financial-project
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- [Email](mailto:youremail@example.com)
+- [Email](mailto:mohazoneblog@gmail.com)
